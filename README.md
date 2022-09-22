@@ -20,3 +20,7 @@ so I have created my github account, added to my website, learned some basic mar
 >so
 >
 >clever
+
+Also plz remember to pick a public domain theme for this website or you'll really straggle to access the data
+
+Maybe could use your own music or pick some dead composer
