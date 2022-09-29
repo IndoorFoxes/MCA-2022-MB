@@ -31,4 +31,38 @@ From the view of an analytics student, his works are often curated as notational
 
 Notation to sound, not notation OR sound.
 
-# Chapter 2
+# Chapter 2 - Man vs Machine: Optical Music Recognition
+
+So we've covered why notation _used_ to be important, but what if we could take this elitist form of music language and feed it to a computer - surely if the computer could just understand what the PDF was saying, and put it into something like Musescore FOR us, that would save SO much time.
+
+### Enter: OMR
+
+Quick catch up on wha exactly OMR is.
+
+OMR; Optical Music Recognition; is a new software development aimed at streaming the music notation and transcription process. You give it a PDF it tries its *very hardest* to read said PDF, and it gives you back a different file like MusicXML, or transcribing into a music notation software like Musescore.
+
+This might sound kind of useless, since human beings don't need to see music notation in some obscure computing format - but it is. It means that musicial transcriptionists not longer need to spend hours infront of their computers writing our note for note each part of their music - they just feed the PDF to the OMR and BOOM they have a digitised version of the scanned manuscript right infront of them
+
+#### well, in theory
+
+The problem with OMR right now is that its not very pretty, and not very bright.
+
+![Jennifer Coolidge - A Cinderella Story](https://i.pinimg.com/originals/9b/41/29/9b412948a8d0151d519db1cb043a9740.jpg)
+
+Often, the OMR really struggles to read through the imperfections and humanness of the written manuscript and makes LOTS of mistakes (if it understands at all)! This can prove to actually be a very frustrating issue.
+
+When using OMR, you have to be so meticulous about catching the mistakes - often key signatures, time signatures, accidentals, rhythm, pitch, just about everything integral to the music, gets missed by the computer. This is definitely a software in need of a LOT of training.
+
+### So how can we use OMR to our advantage when collecting, curating, and documenting data surrounding Franz Schubert?
+
+I took 4 different versions of the Erlkönig manuscript, gave them to Musescore's OMR and assessed the outcome.
+
+First, I took the 1805 scan of the handwritten manuscript, potentially the original writings by Schubert himself and offered this to OMR.
+
+##### Computer said no.
+
+Unsurprisingly the OMR just didnt register the information in the PDF - the handwriting was too unique and full of inconsistencies that it just couldn't assertain any useful information from it.
+
+
+
+
