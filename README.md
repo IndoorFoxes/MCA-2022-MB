@@ -55,14 +55,20 @@ When using OMR, you have to be so meticulous about catching the mistakes - often
 
 ### So how can we use OMR to our advantage when collecting, curating, and documenting data surrounding Franz Schubert?
 
+#### Schubert's own writing, 1815.
+
 I took 4 different versions of the Erlkönig manuscript, gave them to Musescore's OMR and assessed the outcome.
 
-First, I took the 1805 scan of the handwritten manuscript, potentially the original writings by Schubert himself and offered this to OMR.
+First, I took the scan of the handwritten manuscript, potentially the original writings by Schubert himself, from 1815 and offered this to OMR.
+
+
 
 ##### Computer said no.
 
-Unsurprisingly the OMR just didnt register the information in the PDF - the handwriting was too unique and full of inconsistencies that it just couldn't assertain any useful information from it.
+Unsurprisingly the OMR just didnt register the information in the PDF - the handwriting was too unique and full of inconsistencies that it just couldn't assertain any useful information from it. This is probably due to the fact that this particular OMR has not been exposed to, or 'trained in' these style of manuscript. If its difficult for me, a human being, to understand this manuscript, its going to be 100x harder for the OMR.
 
+#### The Diabelli Print - 1826/1827
 
+This is where music notation got a little more _high tech_. Anton Diabelli (1781-1856)
 
 
