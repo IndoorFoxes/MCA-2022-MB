@@ -69,6 +69,34 @@ Unsurprisingly the OMR just didnt register the information in the PDF - the hand
 
 #### The Diabelli Print - 1826/1827
 
-This is where music notation got a little more _high tech_. Anton Diabelli (1781-1856)
+![Diabelli](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/Erlko%CC%88nig%3B%20Schubert%20-%20Sheets%20(2-3).pdf)
+
+This is where music notation got a little more _high tech_. Anton Diabelli (1781-1856) utilised the printing press to produce these notation sheets - this is much more common and represses of these original prints are still very widly used by musicians and musicologists.
+
+![First read OMR](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/First%20Attempt%20-%20OMR%20Reading%20manuscript:traditional%20print.mscz)
+
+It's no surprise that the OMR could read this with relative accuracy. It makes sense that this style of print would be used in training the A.I. in the OMR - we already talked about its widespread use.
+
+#### Digital Notation, 2000-present
+
+Now, I was absolutely expecting this to be the best - input the same format the OMR will be exporting.
+
+![Digital Notation 1](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/Erlko%CC%88nig%20DIGITAL%20NOTATION.pdf)
+
+I was completely wrong.
+
+![Digital OMR Reading 1](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/Erlko%CC%88nig%20-%20Digital%20View.mscz)
+
+Although the OMR did read the file - more than can be said for the handwritten manuscript - it was a complete carcrash. It couldnt read the clefs, input no correct notes, thought the entire piece was about 6 lines long and omitted any instrumentation or rehearsal marks.
+
+But then I Noticed some faults in the file. Thats when I decided to try one last time.
+
+![Digital Notation 2](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/Erlkonig%20Digital%202.pdf)
+
+I decided to input a slightly different digital file - the same format, PDF, but just a different printing. This time it worked. The piece came out almost perfect, apart from a few key signature issues which turned out to be mistakes in the file itself.
+
+![Digtal OMR Reading 2](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/Erlkonig_success_from_DIGI_2.mscz)
+
+It's certainly interesting to see the differences in what the OMR reads. Struggling with digital, but being able to process the Diabelli print
 
 
