@@ -99,4 +99,8 @@ I decided to input a slightly different digital file - the same format, PDF, but
 
 It's certainly interesting to see the differences in what the OMR reads. Struggling with digital, but being able to process the Diabelli print
 
+# Chapter 3 - The Other Website
 
+All I have to offer this week is a link that I dont even think works but that is to be reviewed in chapter 4!
+
+https://indoorfoxes.github.io/MCA-2022-MB/verovio.html
