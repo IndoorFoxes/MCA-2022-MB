@@ -103,4 +103,4 @@ It's certainly interesting to see the differences in what the OMR reads. Struggl
 
 This week I just have a link to the Erlkonig MEI file - it should also help to show you the score for this piece. 
 
-[Verovio MEI File] (https://indoorfoxes.github.io/MCA-2022-MB/verovio.html)
+[Verovio MEI File](https://indoorfoxes.github.io/MCA-2022-MB/verovio.html)
