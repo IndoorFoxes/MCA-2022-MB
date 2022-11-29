@@ -112,3 +112,8 @@ These are some graph links from anaconda
 <img width="372" alt="download (1)" src="https://user-images.githubusercontent.com/114151812/195602041-a1ac7e12-d430-43dd-a206-e4546136e2dc.png">
 
 <img width="378" alt="download" src="https://user-images.githubusercontent.com/114151812/195602073-6d428432-e368-40c1-8d9c-7486962cdaa2.png">
+
+# Chapter 5
+This will be the MEI metadata schema.
+
+In this metadata schema I will include the title, composer, key, year of composition, and instruments.
