@@ -120,6 +120,8 @@ So, this section of the site includes all my sonic visualiser content, and my as
 
 ### 1 - Jackson
 
+![Waveform1](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/1/Waveform_1_Erlkonig.png?raw=true)
+
 ![Chromogram1](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/1/Chromagram_1_Erlkonig.png?raw=true)
 
 ![MFCC1](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/1/MFCC_1_Erlkonig.png?raw=true)
@@ -128,5 +130,22 @@ So, this section of the site includes all my sonic visualiser content, and my as
 
 ### 2 - Rosbaud
 
-![Chromogram2]
+![Waveform 2](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/2/Waveform_erlkonig_2.png?raw=true)
+
+![Chromogram2](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/2/Chromagram_erlkonig_2.png?raw=true)
+
+![MFCC2](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/2/MFCC_Erlkonig_2.1.png?raw=true)
+
+![Spectogram2](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/2/spectrogram_erlkonig_2.png?raw=true)
+
+### 3 - Kalpers
+
+![Waveform3](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/3/Waveform_erlkonig_3.png?raw=true)
+
+![Chromogram3](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/3/Chromagram_erlkonig_3.png?raw=true)
+
+![MFCC3](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/3/MFCC_Erlkonig_3.png?raw=true)
+
+![Spectogram3](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/3/Spectrogram_erlkonig_3.png?raw=true)
+
 
