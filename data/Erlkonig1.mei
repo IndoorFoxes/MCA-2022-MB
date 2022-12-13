@@ -4,6 +4,11 @@
 <mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0.0-dev">
    <meiHead>
       <fileDesc>
+                    <composer-name>Franz Schubert</composer-name>
+                    <song-title>Erlkonig</song-title>
+         <genre>classical</genre>
+         <song/>
+         
          <titleStmt>
             <title> Erlkonig </title>
             <respStmt />
