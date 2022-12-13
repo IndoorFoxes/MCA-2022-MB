@@ -113,7 +113,8 @@ These are some graph links from anaconda
 
 <img width="378" alt="download" src="https://user-images.githubusercontent.com/114151812/195602073-6d428432-e368-40c1-8d9c-7486962cdaa2.png">
 
-# Chapter 5
-This will be the MEI metadata schema.
+# Where it all gets a bit confusing
 
-In this metadata schema I will include the title, composer, key, year of composition, and instruments.
+So, this section of the site includes all my sonic visualiser content, and my assessment of these. My MEI file includes some of the intended meta-data schema, and through I would have liked to include more information, I found that I really struggled with this coding element, so turned focus onto the data extracted from sonic visualiser, which can be seen below. That data I inoput was 3 different performances of Erlkonig. As this is a sung piece, it is often transposed to different keys to suit who is singing it. That also allows for human error in pitching, as they may perform as dictated by their own interpretation.
+
+
