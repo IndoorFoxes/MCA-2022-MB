@@ -118,3 +118,12 @@ These are some graph links from anaconda
 So, this section of the site includes all my sonic visualiser content, and my assessment of these. My MEI file includes some of the intended meta-data schema, and through I would have liked to include more information, I found that I really struggled with this coding element, so turned focus onto the data extracted from sonic visualiser, which can be seen below. That data I inoput was 3 different performances of Erlkonig. As this is a sung piece, it is often transposed to different keys to suit who is singing it. That also allows for human error in pitching, as they may perform as dictated by their own interpretation.
 
 
+### 1, Jackson
+
+![Chromogram1](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/1/Chromagram_1_Erlkonig.png?raw=true)
+
+![MFCC1](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/1/MFCC_1_Erlkonig.png?raw=true)
+
+![Spectogram](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/1/Spectrogram_1_Erlkonig.png?raw=true)
+
+
