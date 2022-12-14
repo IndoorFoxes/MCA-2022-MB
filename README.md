@@ -127,6 +127,8 @@ What I attempted to do here was include additional metadata to the mei file, to 
 
 # Week 8
 
+When looking at the audio files, I selected three different performances of Erlkonig for analysis in Sonic visualiser. This did not render the variety I had been looking for, but did flat up differences in performance, and especially tonal difference.
+
 ### 1 - Jackson
 
 ![Waveform1](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/1/Waveform_1_Erlkonig.png?raw=true)
@@ -156,4 +158,6 @@ What I attempted to do here was include additional metadata to the mei file, to 
 ![MFCC3](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/3/MFCC_Erlkonig_3.png?raw=true)
 
 ![Spectogram3](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/3/Spectrogram_erlkonig_3.png?raw=true)
+
+
 
