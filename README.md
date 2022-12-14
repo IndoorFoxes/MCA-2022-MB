@@ -149,3 +149,8 @@ So, this section of the site includes all my sonic visualiser content, and my as
 ![Spectogram3](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/3/Spectrogram_erlkonig_3.png?raw=true)
 
 
+#Week 5 and 7 
+
+![Week 5](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/data/Screenshot%201.png?raw=true)
+
+![Week 7](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/data/Screenshot%202.png?raw=true)
