@@ -45,9 +45,7 @@ This might sound kind of useless, since human beings don't need to see music not
 
 #### well, in theory
 
-The problem with OMR right now is that its not very pretty, and not very bright.
-
-![Jennifer Coolidge - A Cinderella Story](https://i.pinimg.com/originals/9b/41/29/9b412948a8d0151d519db1cb043a9740.jpg)
+The problem with OMR right now is that its not very good.
 
 Often, the OMR really struggles to read through the imperfections and humanness of the written manuscript and makes LOTS of mistakes (if it understands at all)! This can prove to actually be a very frustrating issue.
 
