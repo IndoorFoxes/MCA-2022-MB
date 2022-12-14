@@ -113,10 +113,19 @@ These are some graph links from anaconda
 
 <img width="378" alt="download" src="https://user-images.githubusercontent.com/114151812/195602073-6d428432-e368-40c1-8d9c-7486962cdaa2.png">
 
-# Where it all gets a bit confusing
 
-So, this section of the site includes all my sonic visualiser content, and my assessment of these. My MEI file includes some of the intended meta-data schema, and through I would have liked to include more information, I found that I really struggled with this coding element, so turned focus onto the data extracted from sonic visualiser, which can be seen below. That data I inoput was 3 different performances of Erlkonig. As this is a sung piece, it is often transposed to different keys to suit who is singing it. That also allows for human error in pitching, as they may perform as dictated by their own interpretation.
 
+# Week 5 and 7 
+
+In these weeks I will try to add some additional metadata to the mei files 
+
+![Week 5](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/data/Screenshot%201.png?raw=true)
+
+![Week 7](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/data/Screenshot%202.png?raw=true)
+
+What I attempted to do here was include additional metadata to the mei file, to enrich the metadata. Having had no coding experience I found this very difficult, but managed to add some of the more basic metadaa which I had described above.
+
+# Week 8
 
 ### 1 - Jackson
 
@@ -148,9 +157,3 @@ So, this section of the site includes all my sonic visualiser content, and my as
 
 ![Spectogram3](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/3/Spectrogram_erlkonig_3.png?raw=true)
 
-
-# Week 5 and 7 
-
-![Week 5](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/data/Screenshot%201.png?raw=true)
-
-![Week 7](https://github.com/IndoorFoxes/MCA-2022-MB/blob/master/data/Screenshot%202.png?raw=true)
